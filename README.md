@@ -94,9 +94,4 @@ Feel free to contribute by submitting pull requests. Ensure your code follows be
 ## License
 This project is licensed under the MIT License.
 
-## Author
-[Your Name](https://github.com/your_username)
-
----
-This README provides detailed setup instructions, explanations of each component, and usage guidelines. Let me know if you need any modifications!
 
